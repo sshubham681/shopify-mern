@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #fafafa;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+  /* height: 280px; */
+}
